@@ -1,6 +1,11 @@
-    1. Open Tableau, and connect to the Excel workbook "SourceDataf.xlsx", and the Excel spreadsheet "CDs".
-    2. Create a viz which shows a bar chart the smallest file size per "File Extension". 
-      (There are 3 File Extensions - I want the smallest file size for each of these file extensions.) 
-    3. Create another viz which shows a line chart with Years and Quarters in the Columns shelf, and the Minimum of the "#" field in the Rows shelf.
-    4. Either save this viz to Tableau Public, or save it to your desktop (if you have Tableau Desktop or similar.)
-    5. Close Tableau completely, open it again, and open your newly saved file.
+1. Open Tableau, and connect to the Excel workbook "SourceDataf.xlsx", and the Excel spreadsheet "CDs".
+    
+2. Create a viz which shows a bar chart the smallest file size per "File Extension". 
+   (There are 3 File Extensions - I want the smallest file size for each of these file extensions.) 
+   
+3. Create another viz which shows a line chart with Years and Quarters in the Columns shelf, and the Minimum of the "#" field in the Rows shelf.
+
+4. Either save this viz to Tableau Public, or save it to your desktop (if you have Tableau Desktop or similar.)
+
+5. Close Tableau completely, open it again, and open your newly saved file.
+

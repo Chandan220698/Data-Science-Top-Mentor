@@ -1,0 +1,15 @@
+1. Connect to the HPIAdmins spreadsheet in the SourceData workbook. 
+
+2. Hide all of the fields except Date, Region Name, Index and 12m%Change. 
+
+3. Ensure that Date is a Date field, Region Name is a String field, and Index and 12m%Change are number fields.
+
+4. Rename 12m%Change as "12 month percentage change", and change its default aggregation to Average.
+
+5. Create a viz (a line chart) which shows, for each RegionName, the average 12 month percentage change per year.
+
+6. Color the lines according to the RegionName.
+
+7. Duplicate the viz, and change it to a circle display.
+
+8. Add the average of the Index as the size.

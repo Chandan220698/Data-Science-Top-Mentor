@@ -1,0 +1,29 @@
+1. Connect to the HPIRegions spreadsheet (note: not the HPIAdmin spreadsheet) in the SourceDataf workbook. 
+
+2. Create a viz (bar chart) which shows the Year(Date) (going across) by SUM(Sales Volume) (going up). Drag "Region Name" to the Color mark. Rename this as "Viz 1".
+
+3. Create a second viz which has:
+    "Region Name" on the Rows, and
+    Sum(Sales Volume) in the Text marks.
+    Rename this as "Viz 2".
+
+4. Create a third viz which has:
+    Year(Date) on the Rows shelf
+    Sum(Sales Volume) in the Text marks.
+    Rename this as "Viz 3".
+
+5. Create a dashboard which has:
+    "Viz 2" in the top-left hand corner.
+    "Viz 3" in the top-right hand corner.
+    "Viz 1" in the bottom half.
+    Before you do it, have a think about what is the best order to add the Vizzes into the dashboard.
+
+6. Click on the "Use as Filter" on Viz 2, and click on "East Midlands" in Viz 2. See what happens.
+
+7. Now change this filter so that it only works on a menu.
+
+8. Add a similar filter on Viz 3.
+
+9. Set up this dashboard on a Tablet and a Phone.
+
+10. Create a story, using this dashboard three times. In each story point, select a different region in "Viz 2".
